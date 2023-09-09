@@ -10,7 +10,7 @@ disponiveis: for, while ou do...while. Caso o comando continue seja executado em
 o incremento ou decremento da variavel de controle ocorre normalmente como se o laço tivesse sido
 executado até o seu final.
 
-No exemplo realizado no codigo tambem utilizaos metodos prompt() e alert(), agora para demonstrar
+No exemplo realizado no codigo tambem utilizados metodos prompt() e alert(), agora para demonstrar
 o funcionamento dos comandos break e continue. O programa realiza a leitura de um numero e, caso o
 numero for par ele exibe o dobro do numero e se for impar, o triplo. A leitura contunua até que o 
 usuario informe 0 (ou algum valor invalido). Inicialmente, uma mensagem alertando sobre a execução 
